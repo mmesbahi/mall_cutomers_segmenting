@@ -1,7 +1,7 @@
 
 # Mall Customer Segmentation
 
-### An End-to-End K-Means Clustering Project
+### An End-to-End K-Means Clustering Mini-Project
 
 This mini-project is a data science workflow for unsupervised learning. The goal is to analyze the "Mall Customers" dataset to identify hidden segments, or clusters, of customers.
 
