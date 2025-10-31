@@ -85,13 +85,11 @@ The `groupby()` analysis revealed the following 5 distinct customer segments:
 
 1.  Clone this repository:
     ```sh
-    git clone [https://github.com/](https://github.com/)mmesbahi/mall_cutomers_segmenting
-.git
+    git clone [https://github.com/](https://github.com/)mmesbahi/mall_cutomers_segmenting.git
     ```
 2.  Navigate to the project directory:
     ```sh
     cd mall_cutomers_segmenting
-
     ```
 3.  Create and activate a virtual environment:
     ```sh
