@@ -11,7 +11,7 @@ The final analysis successfully identifies 5 distinct customer personas, which a
 
 The K-Means algorithm (with K=5) successfully identified 5 distinct, data-driven clusters based on customer income and spending habits.
 
-![Final Cluster Visualization](cluster_plot.png)
+![Final Cluster Visualization](cluster_plot.PNG)
 
 
 ---
